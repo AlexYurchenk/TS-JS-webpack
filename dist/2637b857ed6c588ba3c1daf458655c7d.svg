@@ -1,0 +1,8 @@
+export default {
+      id: "sprite-usage",
+      viewBox: undefined,
+      url: __webpack_public_path__ + "C:\\Users\\Алексей\\OneDrive\\Рабочий стол\\webpack-test\\src\\assets\\images\\sprite.svg",
+      toString: function () {
+        return this.url;
+      }
+    }
